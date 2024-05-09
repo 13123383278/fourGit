@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-1.git pull  更新代码，发现
+1.git pull  更新代码，发现1
 
 error: Your local changes to the following files would be overwritten by merge:pom.xml
 
