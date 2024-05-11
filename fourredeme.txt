@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-1.git pull  更新代码，发现633分支3分支3333
-=======
-1.git pull  更新代码，发现2
+1.git pull  更新代码，发现这里是分支3
 >>>>>>> a340d7dac6656468ea3b9e8b59cf16abe990627a
 
 error: Your local changes to the following files would be overwritten by merge:pom.xml
