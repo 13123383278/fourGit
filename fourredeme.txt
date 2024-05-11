@@ -1,4 +1,6 @@
-1.git pull  更新代码，发现26666
+1.git pull  更新代码，发现这里是分支1526
+>>>>>>> a340d7dac6656468ea3b9e8b59cf16abe990627a
+>>>>>>> fb0c72b88bf303ee7a5a19ef3848ab2dc9afed60
 
 error: Your local changes to the following files would be overwritten by merge:pom.xml
 
